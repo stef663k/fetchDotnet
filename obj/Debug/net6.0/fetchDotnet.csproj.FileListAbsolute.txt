@@ -1,0 +1,15 @@
+C:\Users\crazy\OneDrive\Skrivebord\fetchCall\fetchDotnet\bin\Debug\net6.0\fetchDotnet.exe
+C:\Users\crazy\OneDrive\Skrivebord\fetchCall\fetchDotnet\bin\Debug\net6.0\fetchDotnet.deps.json
+C:\Users\crazy\OneDrive\Skrivebord\fetchCall\fetchDotnet\bin\Debug\net6.0\fetchDotnet.runtimeconfig.json
+C:\Users\crazy\OneDrive\Skrivebord\fetchCall\fetchDotnet\bin\Debug\net6.0\fetchDotnet.dll
+C:\Users\crazy\OneDrive\Skrivebord\fetchCall\fetchDotnet\bin\Debug\net6.0\ref\fetchDotnet.dll
+C:\Users\crazy\OneDrive\Skrivebord\fetchCall\fetchDotnet\bin\Debug\net6.0\fetchDotnet.pdb
+C:\Users\crazy\OneDrive\Skrivebord\fetchCall\fetchDotnet\obj\Debug\net6.0\fetchDotnet.csproj.AssemblyReference.cache
+C:\Users\crazy\OneDrive\Skrivebord\fetchCall\fetchDotnet\obj\Debug\net6.0\fetchDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crazy\OneDrive\Skrivebord\fetchCall\fetchDotnet\obj\Debug\net6.0\fetchDotnet.AssemblyInfoInputs.cache
+C:\Users\crazy\OneDrive\Skrivebord\fetchCall\fetchDotnet\obj\Debug\net6.0\fetchDotnet.AssemblyInfo.cs
+C:\Users\crazy\OneDrive\Skrivebord\fetchCall\fetchDotnet\obj\Debug\net6.0\fetchDotnet.csproj.CoreCompileInputs.cache
+C:\Users\crazy\OneDrive\Skrivebord\fetchCall\fetchDotnet\obj\Debug\net6.0\fetchDotnet.dll
+C:\Users\crazy\OneDrive\Skrivebord\fetchCall\fetchDotnet\obj\Debug\net6.0\ref\fetchDotnet.dll
+C:\Users\crazy\OneDrive\Skrivebord\fetchCall\fetchDotnet\obj\Debug\net6.0\fetchDotnet.pdb
+C:\Users\crazy\OneDrive\Skrivebord\fetchCall\fetchDotnet\obj\Debug\net6.0\fetchDotnet.genruntimeconfig.cache
